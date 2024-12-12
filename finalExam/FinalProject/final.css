@@ -1,0 +1,23 @@
+* /
+
+/* Navigation Styles */
+
+nav {
+	background-color: #249081;
+	color: black;
+	width: 290px;
+	float: left;
+	height: 1300px;
+	padding: 15px;
+	border-right: 5px double #81A594;
+}
+
+/* Section Styles */
+
+#section {
+	background-color: #e6dce3;
+	color: black;
+	width: 725px;
+	float: right;
+	padding: 15px;
+}
