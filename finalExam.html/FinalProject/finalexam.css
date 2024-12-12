@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Callie Lawrence</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<link href="finalexam.css" rel= stylesheet />
+</head>
+<body>
+<header>
+
+<p><img src="tech-design-it.webp" alt="Look at me!" height="300" width="300" /></p>
+<h1>Callie</h1>
+<h3>ASIT - Associate of Science in Information Technology<br />
+                 Winter 2024</h3>
+
+
+
+</header>
+<nav>
+<p><a href=>BIO</a></p>
+<p><a href=>Assignments</a></p>
+<p><a href=>Exams</a></p>
+<p><a href=#link>Links</a></p>
+</nav>
+<div id="section">
+<h2 id="bio">BIO</h2>
+
+
+<p>Hello! My name is Callie Lawrence I am currently majoring in Associate Science Information Of Technology. 
+This is my first try at making a website.</p>
+<h2 id="assignments">Assignments</i></h2>
+<ul>
+<li>Week 1</li>
+<li>Week 2</li>
+
+
+<li>Assignment 2.2 - <a href="../assn02/tutorial/ct_start.html">Curbside Thai</a> (HTML01, Tutorial)</li>
+</ul>
+<li>Week 3</li>
+<ul>
+<li>Assignment 3.3 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn03\review">Mobile Panini</a> (HTML01, Review)</li>
+</ul>
+<li>Week 4</li>
+<ul>
+<li>Assignment 4.2 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn04\case1">Jedds Tree Service</a> (HTML01, Case 1)</li>
+</ul>
+<li>Week 5</li>
+<ul>
+<li>Assignment 5.1 - <a href=">"C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn05\tutorial"</a> (HTML02, Tutorial)</li>
+</ul>
+<li>Week 6</li>
+<ul>
+<li>Assignment 6.1 - <a href=>"C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn06\tutorial"</a> (HTML03, Tutorial)</li>
+</ul>
+<li>Week 7</li>
+<ul>
+<li>Assignment 7.1 - <a href="">"C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn07\case1"</a> (HTML03, Case 1)</li>
+<li>Assignment 7.2 - <a href="">"C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\assn07\case3"</a> (HTML03, Case 2)</li>
+</ul>
+<li>Week 8</li>
+<ul>
+<li>Assignment 8.1 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\CSC230-Winter\assn08\tutorial">Tree and Book</a> (HTML04, Tutorial)</li>
+<li>Assignment 8.2 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\CSC230-Winter\assn08">Save Your Fork</a> (HTML04, Case 2)</li>
+</ul>
+<li>Week 9</li>
+<ul>
+<li>Assignment 9.1 - <a href="">Trusted Friends Daycare</a> (HTML05, Tutorial)</li>
+<li>Assignment 9.2 - <a href="">Golden Pulps</a> (HTML04, Case 1)</li>
+<li>Assignment 9.3 - <a href="">Dakota Listeners Radio</a> (HTML06, Case 1)</li>
+</ul>
+<li>Week 10</li>
+<ul>
+<li>Assignment 10.1 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\CSC230-Winter\assn10\tutorial">Marlin Internet</a> (HTML06, Case 1)</li>
+<li>Assignment 10.2 - <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\CSC230-Winter\assn10\case1">Red Ball Pizza</a> (HTML07, Tutorial)</li>
+</ul>
+</ul>
+<h2 id="exams">Exams</h2>
+<ul>
+<li>Midterm Project: <a href="C:\Users\callie\OneDrive\Desktop\CSC230-Winter 2024\CSC230-Winter\midtermExam">Philip Henslowe Classic Theatre</a> (HTML02, Case 1)</li>
+<li>Final Project: <a href="">Final Exam</a> (week 11)</li>
+</ul>
+<h2 id="links">My Links</h2>
+<a href="http://www.google.com">Google</a><br />
+</div>
+<footer>
+<p>This page is submitted in consideration towards completion of CSC230
+                 Web Design <br />
+&copy;2024</p>
+</footer>
+</body>
+</html>
